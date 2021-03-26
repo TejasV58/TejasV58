@@ -1,4 +1,4 @@
-### Hi there - I am Tejas Vaichole👋 ![](https://komarev.com/ghpvc/?username=TejasV58)
+### Hi there - I am Tejas Vaichole👋 ![](https://komarev.com/ghpvc/?username=TejasV58&&style=plastic&color=red)
 
 ## I am a Coder, Developer, Machine learning enthusiast
 
