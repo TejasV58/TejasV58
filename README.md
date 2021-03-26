@@ -1,12 +1,7 @@
-<h2 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br>
-  <span style="color:blue">*I am Tejas Vaichole*</span>
-</h2>
-
-![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Tejas Vaichole![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
 
 ## I am a Coder, Developer, Machine learning enthusiast
 
