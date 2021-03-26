@@ -19,8 +19,8 @@
 
 ### Coding profiles:
 
-[<img align="left" alt="Tejas| Codechef" width="110px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
-[<img align="left" alt="Tejas| HackerRank" width="110px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
+[<img align="left" alt="Tejas| Codechef" width="110px" src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="Tejas| HackerRank" width="110px" src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
 
 <br />
 
