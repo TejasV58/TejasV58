@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tejas| LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logoColor=white" />][linkedin]
-[<img align="left" alt="Tejas| Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" />][instagram]
-[<img align="left" alt="Tejas| Email" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white" />][mail]
+[<img align="left" alt="Tejas| LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="Tejas| Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Tejas| Email" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][mail]
 
 <br/>
 
