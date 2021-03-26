@@ -3,7 +3,6 @@
 
 ### I am a Coder, Developer, Machine learning enthusiast
 
-- 🔭 I’m currently working on college projects 
 - :bar_chart: I’m currently learning Machine learning algorithms
 - 👯 I’m looking to collaborate with other content creators
 - :dart: 2021 Goals: Contribute to Open Source projects
@@ -16,13 +15,15 @@
 [<img align="left" alt="Tejas| Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][mail]
 
 <br/>
+<br/>
 
 ### Coding profiles:
 
-[<img align="left" alt="Tejas| Codechef" width="110px" src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
-[<img align="left" alt="Tejas| HackerRank" width="110px" src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
+[<img align="left" alt="Tejas| Codechef" width="110px" src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="Tejas| HackerRank" width="110px" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" />][hackerrank]
 
 <br />
+<br/>
 
 ### Languages and Tools:
 
