@@ -1,8 +1,8 @@
-<div align="center">
-  <h3>Hello there</h3>
+<h3 align="center">
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br>
-  <h2>I am Tejas Vaichole</h2>
-</div>
+  <h1>I am Tejas Vaichole</h1>
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
 
