@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Tejas Vaichole ![](https://komarev.com/ghpvc/?TejasV58&color=green)
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole]() ![](https://komarev.com/ghpvc/?TejasV58&color=green)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -12,15 +12,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tejas| LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tejas| Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tejas| LinkedIn" width="24px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Tejas| Instagram" width="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Tejas| Email" width="24px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />][mail]
 
 <br/>
 
 ### Coding profiles:
 
-[<img align="left" alt="Tejas| Codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
-[<img align="left" alt="Tejas| HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Tejas| Codechef" width="24px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="Tejas| HackerRank" width="24px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />][hackerrank]
 
 <br />
 
@@ -58,3 +59,4 @@
 [instagram]: https://www.instagram.com/tejasvaichole55/
 [codechef]: https://www.codechef.com/users/tejasv_55
 [hackerrank]: https://www.hackerrank.com/tejasv515
+[mail]: mailto:tejasv515@gmail.com 
