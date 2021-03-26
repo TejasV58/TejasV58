@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tejas| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tejas-vaichole-049209196/)
-[<img align="left" alt="Tejas| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tejasvaichole55/)
+[<img align="left" alt="Tejas| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tejas| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,3 +36,13 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Tejas's Github Stats" src="https://github-readme-stats.TejasV58.vercel.app/api?username=TejasV58&show_icons=true&hide_border=true" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/tejas-vaichole-049209196/
+[instagram]: https://www.instagram.com/tejasvaichole55/
