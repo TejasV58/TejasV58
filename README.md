@@ -39,7 +39,7 @@
 
 ### :zap: GitHub Stats
 
-[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
