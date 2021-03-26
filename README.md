@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tejas's Github Stats" src="https://github-readme-stats.TejasV58.vercel.app/api?username=TejasV58&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tejas's Github Stats" src="https://github-readme-stats.tejasv58.vercel.app/api?username=TejasV58&show_icons=true&hide_border=true" />
 
 </details>
 
