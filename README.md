@@ -10,13 +10,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tejas| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tejas| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tejas| LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tejas| Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
 
 ### Coding profiles:
 
-[<img align="left" alt="Tejas| Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][instagram]
-[<img align="left" alt="Tejas| HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][instagram]
+[<img align="left" alt="Tejas| Codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
+[<img align="left" alt="Tejas| HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
@@ -51,3 +53,5 @@
 
 [linkedin]: https://www.linkedin.com/in/tejas-vaichole-049209196/
 [instagram]: https://www.instagram.com/tejasvaichole55/
+[codechef]: https://www.codechef.com/users/tejasv_55
+[hackerrank]: https://www.hackerrank.com/tejasv515
