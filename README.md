@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole]() ![](https://komarev.com/ghpvc/?TejasV58&color=green)
 
-<img align="right" width="450px" height="370px" alt="GIF" src="drink_coffee.gif" />
+<img align="right" width="450px" height="370px" alt="GIF" src="coding.gif" />
 
 ### I am a Coder, Developer, Machine learning enthusiast
 
