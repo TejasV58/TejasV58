@@ -48,8 +48,8 @@
 
 <p align="center">
     <a href="https://github.com/TejasV58">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasV58&langs_count=6&layout=compact&theme=radical"/>
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical"/>
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasV58&langs_count=6&layout=compact&theme=radical"/>
     </a>
 </p>
 
