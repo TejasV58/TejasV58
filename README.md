@@ -15,15 +15,13 @@
 [<img align="left" alt="Tejas| Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][mail]
 
 <br/>
-<br/>
 
 ### Coding profiles:
 
-[<img align="left" alt="Tejas| Codechef" width="110px" src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white" />][codechef]
-[<img align="left" alt="Tejas| HackerRank" width="110px" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" />][hackerrank]
+[<img align="left" alt="Tejas| Codechef" src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="Tejas| HackerRank"  src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" />][hackerrank]
 
 <br />
-<br/>
 
 ### Languages and Tools:
 
