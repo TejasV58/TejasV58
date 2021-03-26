@@ -41,6 +41,9 @@
 
 [![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Language stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasV58)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
