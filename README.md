@@ -1,10 +1,10 @@
-## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Tejas Vaichole![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
+## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Tejas Vaichole!  [](https://komarev.com/ghpvc/?username=TejasV58&color=red)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## I am a Coder, Developer, Machine learning enthusiast
 
-- 🔭 I’m currently working on project 
+- 🔭 I’m currently working on college projects 
 - :bar_chart: I’m currently learning Machine learning algorithms
 - 👯 I’m looking to collaborate with other content creators
 - :dart: 2021 Goals: Contribute to Open Source projects
