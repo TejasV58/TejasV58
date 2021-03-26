@@ -1,9 +1,10 @@
-<h2 align="center">
-  Hello there👋 I am Tejas Vaichole
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<div align="center">
+  <h3>Hello there</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><br>
+  <h2>I am Tejas Vaichole</h2>
+</div>
 
-## Hi there - I am Tejas Vaichole👋 ![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
+![](https://komarev.com/ghpvc/?username=TejasV58&color=red)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
