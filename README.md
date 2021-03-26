@@ -1,5 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole]() ![](https://komarev.com/ghpvc/?TejasV58&color=green)
-
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole](https://github.com/TejasV58) ![](https://komarev.com/ghpvc/?username=TejasV58&color=green)
 <img align="right" width="450px" height="370px" alt="GIF" src="coding.gif" />
 
 ### I am a Coder, Developer, Machine learning enthusiast
@@ -49,8 +48,8 @@
 
 <p align="center">
     <a href="https://github.com/TejasV58">
-    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true&theme=radical"/>
-    <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasV58&langs_count=6&layout=compact&theme=radical"/>
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TejasV58&count_private=true&show_icons=true&hide_title=true"/>
+    <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasV58&langs_count=6&layout=compact"/>
     </a>
 </p>
 
