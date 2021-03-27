@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole](https://github.com/TejasV58) ![](https://komarev.com/ghpvc/?username=TejasV58&color=grey)
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole](https://github.com/TejasV58) ![](https://komarev.com/ghpvc/?username=TejasV58&color=lightgrey)
 <img align="right" width="450px" height="350px" alt="GIF" src="coding.gif" />
 
 ### I am a Coder, Developer, Machine learning enthusiast
@@ -33,7 +33,7 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flask" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flask.svg" />
+<img align="left" alt="Flask" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flask.svg" />
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
