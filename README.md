@@ -3,10 +3,10 @@
 
 ### I am a Coder, Developer, Machine learning enthusiast
 
-- :bar_chart: I’m currently learning Machine learning algorithms
+- :bar_chart: I’m currently learning Deep Learning.
+- 👨‍💻 Working on my coding skills.
 - 👯 I’m looking to collaborate with other content creators
 - :dart: 2021 Goals: Contribute to Open Source projects
-- ⚡  Fun fact: I love to draw and play table tennis
 
 ### Connect with me:
 
