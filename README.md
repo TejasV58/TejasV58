@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole](https://github.com/TejasV58) ![](https://komarev.com/ghpvc/?username=TejasV58&color=yellow)
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am [Tejas Vaichole](https://github.com/TejasV58) 
 <img align="right" width="450px" height="350px" alt="GIF" src="coding.gif" />
 
 ### I am a Coder, Developer, Machine learning enthusiast
