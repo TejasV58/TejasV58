@@ -6,7 +6,6 @@
 - :bar_chart: I’m currently learning Deep Learning.
 - 👨‍💻 Working on my coding skills.
 - 👯 I’m looking to collaborate with other content creators
-- :dart: 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
