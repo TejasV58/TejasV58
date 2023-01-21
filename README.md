@@ -3,8 +3,8 @@
 
 ### I am a Coder, Developer, Machine learning enthusiast
 
-- :bar_chart: I’m currently learning Deep Learning.
-- 👨‍💻 Working on my coding skills.
+- :bar_chart: Exploring Deep Learning.
+- 👨‍💻 Working on my Web Development skills.
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
